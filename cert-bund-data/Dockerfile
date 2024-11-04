@@ -1,1 +1,1 @@
-registry.community.greenbone.net/community/cert-bund-data
+FROM registry.community.greenbone.net/community/cert-bund-data
